@@ -3,6 +3,7 @@ from tkinter import *
 from tkinter import ttk
 from PIL import ImageTk, Image
 
+# the root window
 root = Tk()
 root.title('Image Manupilation')
 root.geometry("620x600")
