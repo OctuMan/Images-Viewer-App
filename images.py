@@ -46,18 +46,18 @@ fr3.place(x=575, y=260)
 
 # Icons for next and back buttons 
 
-back_image=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\ImagesGUI\back-icon.png"))
-next_image=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\ImagesGUI\next-icon.png"))
+back_image=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\Image Viewer App\Your_images\back-icon.png"))
+next_image=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\Image Viewer App\Your_images\next-icon.png"))
 
 # importing all images 
 
-i1=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\ImagesGUI\python.png"))
-i2=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\ImagesGUI\sql-server.png"))
-i4=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\ImagesGUI\git.png"))
-i5=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\ImagesGUI\html-5.png"))
-i6=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\ImagesGUI\css-3.png"))
-i7=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\ImagesGUI\js.png"))
-i8=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\ImagesGUI\coding.png"))
+i1=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\Image Viewer App\Your_images\python.png"))
+i2=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\Image Viewer App\Your_images\sql-server.png"))
+i4=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\Image Viewer App\Your_images\git.png"))
+i5=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\Image Viewer App\Your_images\html-5.png"))
+i6=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\Image Viewer App\Your_images\css-3.png"))
+i7=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\Image Viewer App\Your_images\js.png"))
+i8=ImageTk.PhotoImage(Image.open(r"C:\Users\said\Desktop\Python\TkinterGUI\Image Viewer App\Your_images\coding.png"))
 
 # List of images
 liste_images=[i1, i2, i4, i5, i6, i7, i8]
